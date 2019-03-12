@@ -1,7 +1,7 @@
 ## 通过邀请码注册账号，并更新邀请码状态为已使用
 Request URL
 ```javascript
-   /v1/invite_code/create_account
+   /v1/invite_code/open_createacc
 ```
 POST
 ```golang
